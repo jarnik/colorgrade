@@ -1,10 +1,14 @@
 # Color Grading for Unity
 
+Set HSV levels for shadows, midtones and highlights.
+
+Direct preview in edit mode.
+
 ![Color Grading](unityPreview.png)
 
-Set HSV levels for shadows, midtones and highlights. Low quality GIF showcase:
+Low quality GIF showcase:
 
-![](colorGrading.gif)
+![Edit mode preview](colorGrading.gif)
 
 ## Example
 
