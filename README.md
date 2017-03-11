@@ -2,9 +2,9 @@
 
 Set HSV levels for shadows, midtones and highlights.
 
-Direct preview in edit mode.
-
 ![Color Grading](unityPreview.png)
+
+Direct preview in edit mode.
 
 Low quality GIF showcase:
 
